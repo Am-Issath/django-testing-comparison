@@ -14,7 +14,7 @@ This project demonstrates **two testing styles** in Django + DRF:
 ## 📦 Run Locally
 
 ```bash
-git clone https://github.com/yourname/django-testing-comparison.git
+git clone https://github.com/Am-Issath/django-testing-comparison.git
 cd django-testing-comparison
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
