@@ -76,3 +76,7 @@ I can generate the entire codebase structure and content for you in one go if yo
 Otherwise, you can build it step-by-step using this guide — and I’ll be here for code reviews, tweaks, and repo polish.
 
 Let’s ship something 🔥 and useful. Ready to generate?
+
+## ✍️ Author
+- **Built with ❤️ by Issath**
+> **Backend Engineer · Blogger · Builder**
