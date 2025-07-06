@@ -15,22 +15,36 @@ This project demonstrates **two testing styles** in Django + DRF:
 
 ```bash
 git clone https://github.com/Am-Issath/django-testing-comparison.git
+```
+```bash
 cd django-testing-comparison
+```
+```bash
 python -m venv venv && source venv/bin/activate
+```
+```bash
 pip install -r requirements.txt
+```
+```bash
 pytest
 ```
 
 ## 🧪 Test Results
 
 ### Run Django test:
-```python manage.py test```
+```bash
+python manage.py test
+```
 
 ### Run pytest:
-```pytest -v```
+```bash
+pytest -v
+```
 
 ### Run with coverage:
-```pytest --cov=books --cov-report=html```
+```bash
+pytest --cov=books --cov-report=html
+```
 - Then open htmlcov/index.html.
 
 
