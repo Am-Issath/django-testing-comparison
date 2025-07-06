@@ -28,3 +28,31 @@ git clone <repo>
 cd bookstore
 poetry install  # or pip install -r requirements.txt
 pytest
+```
+
+---
+
+## 📂 GitHub Repo Suggestions
+
+- **Name**: `django-testing-patterns`
+- **Tags**: `django`, `drf`, `testing`, `pytest`, `apiclient`, `unittest`
+- **Description**: Learn the difference between Django’s traditional `APITestCase` and modern `pytest` testing styles with a simple Book API.
+
+---
+
+## 🔥 Want Me to Generate Starter Code?
+
+Just say the word:
+> “Yes, generate full repo boilerplate with both test styles”
+
+And I’ll generate:
+- Models
+- Serializers
+- Views
+- Routes
+- Two test files: one `APITestCase`, one `pytest`
+- Setup files (`pytest.ini`, `conftest.py`, `requirements.txt`)
+
+Let’s make it a project **others will star and fork.** Ready?
+
+
