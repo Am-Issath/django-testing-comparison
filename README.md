@@ -31,12 +31,12 @@ pytest
 
 ## 🧪 Test Results
 
-### Run Django test:
+### Run classic test::
 ```bash
 python manage.py test
 ```
 
-### Run pytest:
+### Run pytest version:
 ```bash
 pytest -v
 ```
@@ -47,6 +47,13 @@ pytest --cov=books --cov-report=html
 ```
 - Then open htmlcov/index.html.
 
+### Run with speed:
+```bash
+pytest -n auto
+```
+---
+## Benchmark Results
+![Alt text](images/testing-comparison-table.png)
 
 ---
 
