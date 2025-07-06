@@ -24,7 +24,7 @@ A small Django + DRF project demonstrating the difference between:
 ## 🚀 Getting Started
 
 ```bash
-git clone <repo>
+git clone https://github.com/Am-Issath/django-testing-comparison.git
 cd bookstore
 poetry install  # or pip install -r requirements.txt
 pytest
